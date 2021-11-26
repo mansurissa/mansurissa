@@ -2,11 +2,7 @@
   
   ### Hello there👋, I'm Issa Nsabimana solving problems is what I breath daily...
   
-- 🔭 I’m currently working on **My blog**
-- 🌱 I’m currently learning **Typescript**
-- 👯 I’m looking to collaborate on **Creative open source**
-- 💬 Ask me about **Javascript**
-- ⚡ Fun fact: **I used notepad to write code**
+> I am always ready to contribute to open source projects
 
 ## 📣 Contact me:
 
@@ -17,11 +13,3 @@
 
 </p>
 
-
-## Github Stats
-
-![Issa's stats](https://github-readme-stats.vercel.app/api?username=mansurissa&show_icons=true&theme=algolia)
-
-<a href="https://github.com/mansurissa">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mansurissa&layout=compact&theme=algolia" />
-</a>
