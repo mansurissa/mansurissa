@@ -1,6 +1,6 @@
 <p>
   
-  ### Hello there👋, I'm Issa Nsabimana solving problems is what I breath daily...
+  ### Hello there👋, I'm Issa Nsabimana a Software Engeneer with experience in Nodejs,React, Laravel, and Java. solving problems is what I breath daily...
   
 > I am always ready to contribute to open source projects
 
